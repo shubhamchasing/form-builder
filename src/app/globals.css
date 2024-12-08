@@ -3,15 +3,13 @@
 @tailwind utilities;
 
 :root {
-
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-   
   }
 }
 
 body {
-
+  font-family: "Inter", sans-serif;
 }
